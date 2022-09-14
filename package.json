@@ -1,0 +1,21 @@
+{
+  "name": "xxtereshko-bundle",
+  "displayName": "@xxtereshko/bundle",
+  "description": "xxtereshko extension bundle",
+  "publisher": "xxtereshko",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xxtereshko/xxtereshko-bundle"
+  },
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "xxtereshko.xxtereshko-light",
+    "xxtereshko.xxtereshko-keymaps"
+  ]
+}
