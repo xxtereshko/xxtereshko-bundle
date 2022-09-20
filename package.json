@@ -3,7 +3,7 @@
   "displayName": "@xxtereshko/bundle",
   "description": "xxtereshko extension bundle",
   "publisher": "xxtereshko",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "icon": "images/cover.png",
   "repository": {
     "type": "git",
