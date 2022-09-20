@@ -15,13 +15,14 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "xxtereshko.xxtereshko-light",
-    "xxtereshko.xxtereshko-keymaps",
+    "esbenp.prettier-vscode",
+    "mariusalchimavicius.json-to-ts",
+    "mrmlnc.vscode-scss",
+    "naumovs.color-highlight",
     "pkief.material-icon-theme",
     "visualstudioexptteam.vscodeintellicode",
-    "naumovs.color-highlight",
-    "esbenp.prettier-vscode",
-    "mrmlnc.vscode-scss",
-    "mariusalchimavicius.json-to-ts"
+    "xxtereshko.xxtereshko-keymaps",
+    "xxtereshko.xxtereshko-light",
+    "xxtereshko.xxtereshko-snippets"
   ]
 }
