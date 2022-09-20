@@ -16,6 +16,12 @@
   ],
   "extensionPack": [
     "xxtereshko.xxtereshko-light",
-    "xxtereshko.xxtereshko-keymaps"
+    "xxtereshko.xxtereshko-keymaps",
+    "pkief.material-icon-theme",
+    "visualstudioexptteam.vscodeintellicode",
+    "naumovs.color-highlight",
+    "esbenp.prettier-vscode",
+    "mrmlnc.vscode-scss",
+    "mariusalchimavicius.json-to-ts"
   ]
 }
