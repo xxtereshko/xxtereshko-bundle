@@ -15,13 +15,16 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "xxtereshko.xxtereshko-light",
     "xxtereshko.xxtereshko-keymaps",
-    "pkief.material-icon-theme",
-    "visualstudioexptteam.vscodeintellicode",
-    "naumovs.color-highlight",
+    "xxtereshko.xxtereshko-light",
+    "xxtereshko.xxtereshko-snippets",
+    "akamud.vscode-theme-onedark",
     "esbenp.prettier-vscode",
+    "github.copilot",
+    "mariusalchimavicius.json-to-ts",
     "mrmlnc.vscode-scss",
-    "mariusalchimavicius.json-to-ts"
+    "naumovs.color-highlight",
+    "pkief.material-icon-theme",
+    "visualstudioexptteam.vscodeintellicode"
   ]
 }
