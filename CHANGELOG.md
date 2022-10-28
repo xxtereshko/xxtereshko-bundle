@@ -2,7 +2,7 @@
 
 All notable changes to the "xxtereshko-bundle" extension pack will be documented in this file.
 
-## [0.0.4]
+## [1.0.0]
 
 "xxtereshko.xxtereshko-snippets",
 "github.copilot",
