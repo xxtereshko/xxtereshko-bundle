@@ -8,7 +8,7 @@
     "type": "git",
     "url": "https://github.com/xxtereshko/xxtereshko-bundle"
   },
-  "icon": "images/cover.jpg",
+  "icon": "images/cover.jpeg",
   "engines": {
     "vscode": "^1.71.0"
   },
