@@ -2,8 +2,21 @@
 
 All notable changes to the "xxtereshko-bundle" extension pack will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [0.0.4]
+
+"xxtereshko.xxtereshko-snippets",
+"github.copilot",
+"mariusalchimavicius.json-to-ts"
 
 ## [Unreleased]
+
+"xxtereshko.xxtereshko-light",
+"xxtereshko.xxtereshko-keymaps",
+"pkief.material-icon-theme",
+"visualstudioexptteam.vscodeintellicode",
+"naumovs.color-highlight",
+"esbenp.prettier-vscode",
+"mrmlnc.vscode-scss",
+"mariusalchimavicius.json-to-ts"
 
 - Initial release
