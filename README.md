@@ -1,4 +1,4 @@
-# xxtereshko-bundle README
+# xxtereshko-bundle
 
 [xxtereshko-bundle](https://marketplace.visualstudio.com/items?itemName=xxtereshko.xxtereshko-bundle) — xxtereshko's bundle of frontend extensions for VS Code. [GitHub](https://github.com/xxtereshko/xxtereshko-bundle)
 
