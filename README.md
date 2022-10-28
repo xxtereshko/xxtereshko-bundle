@@ -2,6 +2,10 @@
 
 [xxtereshko-bundle](https://marketplace.visualstudio.com/items?itemName=xxtereshko.xxtereshko-bundle) — xxtereshko's bundle of frontend extensions for VS Code
 
+My VSCode settings can be found [here](https://github.com/xxtereshko/dotfiles/blob/main/vscode/settings.json).
+
+I use the MonoLisa monospace font in my VSCode. It can be found [here](https://www.monolisa.dev/).
+
 ### Extensions in bungle:
 
 - (Mine) VSCode Keymaps — ([Marketplace](https://marketplace.visualstudio.com/items?itemName=xxtereshko.xxtereshko-keymaps))
@@ -15,3 +19,5 @@
 - Prettier — ([Marketplace](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode))
 - SCSS IntelliSense — ([Marketplace](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss))
 - Visual Studio IntelliCode — ([Marketplace](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode))
+
+Enjoy! ❤️
