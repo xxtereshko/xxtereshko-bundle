@@ -9,6 +9,7 @@ I use the MonoLisa monospace font in my VSCode. It can be found [here](https://w
 ### Extensions in bungle:
 
 - (Mine) VSCode Keymaps — [GitHub](https://github.com/xxtereshko/xxtereshko-keymaps) ([Marketplace](https://marketplace.visualstudio.com/items?itemName=xxtereshko.xxtereshko-keymaps))
+
 - (Mine) VSCode Light Theme: — [GitHub](https://github.com/xxtereshko/xxtereshko-light) ([Marketplace](https://marketplace.visualstudio.com/items?itemName=xxtereshko.xxtereshko-light))
 - (Mine) VSCode Snippets: — [GitHub](https://github.com/xxtereshko/xxtereshko-snippets) ([Marketplace](https://marketplace.visualstudio.com/items?itemName=xxtereshko.xxtereshko-snippets))
 - Color Highlight — ([Marketplace](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight))

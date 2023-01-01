@@ -22,10 +22,15 @@
     "akamud.vscode-theme-onedark",
     "esbenp.prettier-vscode",
     "github.copilot",
+    "kisstkondoros.vscode-codemetrics",
     "mariusalchimavicius.json-to-ts",
+    "mhutchie.git-graph",
+    "mikestead.dotenv",
     "mrmlnc.vscode-scss",
     "naumovs.color-highlight",
     "pkief.material-icon-theme",
-    "visualstudioexptteam.vscodeintellicode"
+    "styled-components.vscode-styled-components",
+    "visualstudioexptteam.vscodeintellicode",
+    "vivaxy.vscode-conventional-commits"
   ]
 }

@@ -2,6 +2,16 @@
 
 All notable changes to the "xxtereshko-bundle" extension pack will be documented in this file.
 
+## [1.0.2]
+
+Added:
+
+- vivaxy.vscode-conventional-commits
+- styled-components.vscode-styled-components
+- mikestead.dotenv
+- mhutchie.git-graph
+- kisstkondoros.vscode-codemetrics
+
 ## [1.0.0]
 
 "xxtereshko.xxtereshko-snippets",
