@@ -2,7 +2,7 @@
 
 All notable changes to the "xxtereshko-bundle" extension pack will be documented in this file.
 
-## [1.0.2]
+## [1.1.0]
 
 Added:
 
