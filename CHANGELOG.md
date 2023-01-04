@@ -2,6 +2,12 @@
 
 All notable changes to the "xxtereshko-bundle" extension pack will be documented in this file.
 
+## [1.1.1]
+
+Added:
+
+- dbaeumer.vscode-eslint
+
 ## [1.1.0]
 
 Added:
